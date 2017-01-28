@@ -1,2 +1,2 @@
 # hadoop-socialnetwork-analysis
-Analysis of social network data by Hadoop
+Analysis of sample social network data by Hadoop
